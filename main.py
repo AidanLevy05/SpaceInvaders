@@ -2,8 +2,8 @@ import turtle
 import random
 
 # Consts
-path_to_invader = r"C:/Users/aidan/OneDrive/Documents/Code/Python/Projects/Space Invaders/sprite.gif"
-path_to_ship = r"C:/Users/aidan/OneDrive/Documents/Code/Python/Projects/Space Invaders/ship.gif"
+path_to_invader = r"path/to/invader"
+path_to_ship = r"path/to/ship"
 BOUNDARY_X = 462
 BOUNDARY_Y = 412
 
